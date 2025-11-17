@@ -93,8 +93,8 @@ The system integrates sensors, machine learning, and computer vision to provide 
 
 ## 👤 Author
 
-**Sahil Trivedi**
-🔗 [GitHub Profile](https://github.com/trivedisahil91)
+**Faizan Udheja**
+🔗 [GitHub Profile](https://github.com/faizanudheja)
 
 ---
 
